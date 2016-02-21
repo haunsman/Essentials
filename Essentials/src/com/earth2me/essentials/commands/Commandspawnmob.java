@@ -14,7 +14,7 @@ public class Commandspawnmob extends EssentialsCommand
 {
 	public Commandspawnmob()
 	{
-		super("spawnmob");
+		super("spawnymob");
 	}
 	
 	@Override
